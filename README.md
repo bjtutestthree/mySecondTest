@@ -1,3 +1,1 @@
-# mySecondTest
-http://www.bjtu.edu.cn
-http://www.bjtu.edu.cn
+I don't like it, I want to build my own one
